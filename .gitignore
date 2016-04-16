@@ -1,3 +1,4 @@
 assimp_build
 freetype_build
+zlib_build
 *.pc
